@@ -1,0 +1,8 @@
+{
+  "name": "peeqdata_video_api",
+  "description": "the video related api for peeqdata",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::449135517572:role/peeqdata_video_api_lambda_function",
+  "environment": {}
+}
